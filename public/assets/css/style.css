@@ -4073,7 +4073,7 @@ div#mCSB_1_container{
 }
 
 .case-section .owl-nav{
-  position: absolute;
+  position: relative;
   left: -170px;
   bottom: 0px;
 }
