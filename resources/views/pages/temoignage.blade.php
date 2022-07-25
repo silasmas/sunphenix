@@ -19,7 +19,7 @@
             </div>
             <div class="col-lg-8 col-md-12 col-sm-12 inner-column">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
+                    <figure class="image-box"><img src="assets/images/resource/ed.jpg" alt=""></figure>
                     <div class="testimonial-inner">
                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                             <div class="testimonial-block-one">

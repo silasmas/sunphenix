@@ -135,7 +135,7 @@
                                     <div class="three-item-carousel owl-carousel owl-theme owl-dots-none">
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-1.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/C1.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -153,8 +153,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Health & Food</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Health & Food</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -175,7 +175,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-2.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c2.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -193,8 +193,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -215,7 +215,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-3.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c3.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -233,8 +233,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Treatment</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Treatment</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -259,7 +259,7 @@
                                     <div class="three-item-carousel owl-carousel owl-theme owl-dots-none">
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-1.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/C1.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -277,8 +277,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Education</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Education</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -299,7 +299,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-2.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c2.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -317,8 +317,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Education</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Education</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -339,7 +339,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-3.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c3.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -357,8 +357,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Education</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Education</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -383,7 +383,7 @@
                                     <div class="three-item-carousel owl-carousel owl-theme owl-dots-none">
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-1.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/C1.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -401,8 +401,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Health & Food</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Health & Food</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -423,7 +423,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-2.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c2.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -441,8 +441,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Health & Food</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Health & Food</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -463,7 +463,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-3.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c3.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -481,8 +481,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Health & Food</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Health & Food</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -507,7 +507,7 @@
                                     <div class="three-item-carousel owl-carousel owl-theme owl-dots-none">
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-1.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/C1.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -525,8 +525,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -547,7 +547,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-2.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c2.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -565,8 +565,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -587,7 +587,7 @@
                                         </div>
                                         <div class="case-block-one">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/case/case-3.jpg" alt=""></figure>
+                                                <figure class="image-box"><img src="assets/images/case/c3.jpg" alt=""></figure>
                                                 <div class="lower-content">
                                                     <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                                     <div class="donate-amount clearfix">
@@ -605,8 +605,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Hunger & Nutrition</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Hunger & Nutrition</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -649,8 +649,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Treatment</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Treatment</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -689,8 +689,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Treatment</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Treatment</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -729,8 +729,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Treatment</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Treatment</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -773,8 +773,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.html">Potable Water for Villages In Mozambique</a></h3>
+                                                            <div class="category"><a href="#"># Water & Environment</a></div>
+                                                            <h3><a href="#">Potable Water for Villages In Mozambique</a></h3>
                                                             <p>Indignation and dislike men who are like most beguiled demoralized.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -813,8 +813,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.html">Feed Nutritious Meals to a Poor Rural Child</a></h3>
+                                                            <div class="category"><a href="#"># Water & Environment</a></div>
+                                                            <h3><a href="#">Feed Nutritious Meals to a Poor Rural Child</a></h3>
                                                             <p>Blinded by desire that they cannot foresee the pain and trouble bound too.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -853,8 +853,8 @@
                                                     </div>
                                                     <div class="inner">
                                                         <div class="text">
-                                                            <div class="category"><a href="donation-details.html"># Water & Environment</a></div>
-                                                            <h3><a href="donation-details.html">Help Differently Abled Person to Feel Confident</a></h3>
+                                                            <div class="category"><a href="#"># Water & Environment</a></div>
+                                                            <h3><a href="#">Help Differently Abled Person to Feel Confident</a></h3>
                                                             <p>Equal blame belongs to those who fail in their duty through weakness.</p>
                                                         </div>
                                                         <ul class="info-box clearfix">
@@ -1143,11 +1143,12 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
-                                    <h2>Social Art for Behaviour Change Approach</h2>
+                                    <span class="top-text">Vidéo de sensibilisation</span>
+                                    <h2></h2>
                                 </div>
                                 <div class="text">
-                                    <p>Laborious physical exercise, except to obtain advantages from it but who has any right.</p>
+                                    <p>Laborious physical exercise, except to obtain advantages
+                                         from it but who has any right.</p>
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
@@ -1163,11 +1164,12 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
+                                    <span class="top-text">Vidéo de sensibilisation</span>
                                     <h2>What Has Aid <br />Ever Done For Anyone?</h2>
                                 </div>
                                 <div class="text">
-                                    <p>Find fault with a man who chooses to enjoy pleasure that has no annoying consequences.</p>
+                                    <p>Find fault with a man who chooses to enjoy pleasure
+                                        that has no annoying consequences.</p>
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
@@ -1183,7 +1185,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title light">
-                                    <span class="top-text">Charity VideoTour</span>
+                                    <span class="top-text">Vidéo de sensibilisation</span>
                                     <h2>Social Art for Behaviour Change Approach</h2>
                                 </div>
                                 <div class="text">
@@ -1192,7 +1194,7 @@
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption="">
-                                        <i class="icon-play-arrow"></i>Play Video</a>
+                                        <i class="icon-play-arrow"></i>Lire la Video</a>
                                 </div>
                             </div>
                         </div>
@@ -1206,7 +1208,7 @@
         <!-- events-section -->
         <section class="events-section">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-17.png);"></div>
-            <div class="bg-layer" style="background-image: url(assets/images/background/7.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/background/event.png);"></div>
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="shape" style="background-image: url(assets/images/shape/shape-18.png);"></div>
@@ -1215,21 +1217,21 @@
                             <div class="content_block_2">
                                 <div class="content-box">
                                     <div class="sec-title light">
-                                        <span class="top-text">Our Recent Events</span>
-                                        <h2>Here to Bring People Together</h2>
+                                        <span class="top-text">Nos réssentes campagne</span>
+                                        <h2>Pour la lutte du VBG</h2>
                                     </div>
                                     <div class="text">
                                         <p>The majority have suffered alteration all injected <br />gets humours randomises.</p>
-                                        <a href="events.html" class="theme-btn btn-one">All events</a>
+                                        <a href="#" class="theme-btn btn-one">Toutes les campagne</a>
                                     </div>
                                     <div class="sponsors-inner">
-                                        <h3>Event Sponsors:</h3>
+                                        <h3>Partenaires des campagnes :</h3>
                                         <div class="sponsors-carousel owl-carousel owl-theme owl-dots-none">
-                                            <figure class="sponsors-logo"><a href="index.html"><img src="assets/images/clients/sponsors-1.png" alt=""></a></figure>
-                                            <figure class="sponsors-logo"><a href="index.html"><img src="assets/images/clients/sponsors-2.png" alt=""></a></figure>
-                                            <figure class="sponsors-logo"><a href="index.html"><img src="assets/images/clients/sponsors-3.png" alt=""></a></figure>
+                                            <figure class="sponsors-logo"><a href="#"><img src="assets/images/clients/sponsors-1.png" alt=""></a></figure>
+                                            <figure class="sponsors-logo"><a href="#"><img src="assets/images/clients/sponsors-2.png" alt=""></a></figure>
+                                            <figure class="sponsors-logo"><a href="#"><img src="assets/images/clients/sponsors-3.png" alt=""></a></figure>
                                         </div>
-                                        <h6><a href="index.html">Become a Sponsor</a></h6>
+                                        <h6><a href="#">Devenir parténaire</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -1241,16 +1243,16 @@
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
                                             <img src="assets/images/events/events-1.jpg" alt="">
-                                            <h3>31<span>Feb</span></h3>
+                                            <h3>31<span>Janv</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
-                                                <li><i class="far fa-clock"></i>11.30 am</li>
-                                                <li><i class="far fa-map"></i>Newyork</li>
+                                                <li><i class="far fa-clock"></i>10H00</li>
+                                                <li><i class="far fa-map"></i>GOMA</li>
                                             </ul>
                                             <h3><a href="event-details.html">Royal Parks Half Marathon</a></h3>
-                                            <div class="links"><a href="event-details.html">More Details</a></div>
-                                            <div class="price"><h6>$180.00</h6></div>
+                                            <div class="links"><a href="#">Voir en detail</a></div>
+                                            <div class="price"><h6>Gratuit</h6></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1259,16 +1261,16 @@
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
                                             <img src="assets/images/events/events-2.jpg" alt="">
-                                            <h3>05<span>Mar</span></h3>
+                                            <h3>05<span>Juin</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
-                                                <li><i class="far fa-clock"></i>10.00 am</li>
-                                                <li><i class="far fa-map"></i>California</li>
+                                                <li><i class="far fa-clock"></i>12H00</li>
+                                                <li><i class="far fa-map"></i>BUKAVU</li>
                                             </ul>
-                                            <h3><a href="event-details.html">Pure Hearts Virtual Brain Game</a></h3>
-                                            <div class="links"><a href="event-details.html">More Details</a></div>
-                                            <div class="price"><h6>For Free</h6></div>
+                                            <h3><a href="#">Pure Hearts Virtual Brain Game</a></h3>
+                                            <div class="links"><a href="#">Voir en detail</a></div>
+                                            <div class="price"><h6>Gratuit</h6></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1277,16 +1279,16 @@
                                         <div class="shape" style="background-image: url(assets/images/shape/shape-20.png);"></div>
                                         <figure class="image-box">
                                             <img src="assets/images/events/events-3.jpg" alt="">
-                                            <h3>22<span>Mar</span></h3>
+                                            <h3>22<span>Juin</span></h3>
                                         </figure>
                                         <div class="inner">
                                             <ul class="info clearfix">
-                                                <li><i class="far fa-clock"></i>05.30 am</li>
-                                                <li><i class="far fa-map"></i>Newyork</li>
+                                                <li><i class="far fa-clock"></i>08H00</li>
+                                                <li><i class="far fa-map"></i>LIKASI</li>
                                             </ul>
-                                            <h3><a href="event-details.html">USA Walks, Treks and Hikes</a></h3>
-                                            <div class="links"><a href="event-details.html">More Details</a></div>
-                                            <div class="price"><h6>$160.00</h6></div>
+                                            <h3><a href="#">USA Walks, Treks and Hikes</a></h3>
+                                            <div class="links"><a href="#">Voir en detail</a></div>
+                                            <div class="price"><h6>Gratuit</h6></div>
                                         </div>
                                     </div>
                                 </div>

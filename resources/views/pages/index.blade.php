@@ -7,6 +7,8 @@
 @include('pages.home')
 @include('pages.about')
 @include('pages.cause')
+@include('pages.team')
+@include('pages.temoignage')
 
 
 

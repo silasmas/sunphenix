@@ -264,7 +264,7 @@
 }
 
 .donate-amount .amount-box .price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .donate-amount .percentage-box .count-text{
@@ -277,20 +277,20 @@
 }
 
 .case-block-one .inner-box .lower-content .inner .text .category a:hover{
-  color: #f65024;
-  border-color: #f65024;
+  color: #EA2722;
+  border-color: #EA2722;
 }
 
 .case-block-one .inner-box .lower-content .inner .text h3 a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .case-block-one .inner-box .lower-content .info-box li i{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .case-section .tab-btns li:before{
-	border-color: #f65024;
+	border-color: #EA2722;
 }
 
 .case-section .tab-btns li.active-btn,
@@ -313,7 +313,7 @@
 }
 
 .recent-case-section .inner-box{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .video-section .content-box .video-btn a{
@@ -325,17 +325,17 @@
 }
 
 .video-section .owl-nav button:hover{
-	border-color: #f65024;
-	background-color: #f65024;
+	border-color: #EA2722;
+	background-color: #EA2722;
 }
 
 .content_block_2 .content-box .sponsors-inner h6 a{
-	color: #f65024;
-	border-color: #f65024;
+	color: #EA2722;
+	border-color: #EA2722;
 }
 
 .events-block-one .inner-box .image-box h3{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .events-block-one .inner-box .inner .info li{
@@ -347,23 +347,23 @@
 }
 
 .events-block-one .inner-box .inner h3 a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .events-block-one .inner-box .inner .links a:before{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .events-block-one .inner-box .inner .links a:hover{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .events-block-one .inner-box .inner .price h6{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .recent-case-section .owl-nav button:hover{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .team-block-one .inner-box .content-box .designation{
@@ -371,25 +371,25 @@
 }
 
 .team-block-one .inner-box .social-links{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .team-section .owl-theme .owl-dots .owl-dot.active span,
 .team-section .owl-theme .owl-dots .owl-dot span:hover{
-  border-color: #f65024;
+  border-color: #EA2722;
 }
 
 .team-section .owl-theme .owl-dots .owl-dot.active span:before,
 .team-section .owl-theme .owl-dots .owl-dot span:hover:before{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .testimonial-block-one .text .icon-box{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .testimonial-block-one .text h3{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .testimonial-block-one .text .designation{
@@ -397,12 +397,12 @@
 }
 
 .testimonial-section .owl-nav button:hover{
-	background-color: #f65024;
-	border-color: #f65024;
+	background-color: #EA2722;
+	border-color: #EA2722;
 }
 
 .news-block-one .inner-box .content-box .text .post-date{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .news-block-one .inner-box .content-box .text .category a{
@@ -423,35 +423,35 @@
 }
 
 .news-block-one .inner-box .content-box .info .link-box a:hover{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .news-block-one .inner-box .content-box .info .link-box a:after{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .news-block-one .inner-box .content-box .info .comment-box a i{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .news-block-one .inner-box .content-box .info .comment-box a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .subscribe-section .inner-box .left-column .text h3 i{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .subscribe-section .inner-box .right-column .subscribe-form .form-group button{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .subscribe-section .inner-box .right-column .subscribe-form .form-group input:focus{
-  border-color: #f65024 !important;
+  border-color: #EA2722 !important;
 }
 
 .footer-top .title-box .icon-box{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .footer-top .title-box span{
@@ -459,19 +459,19 @@
 }
 
 .footer-top .links-widget .links-list li a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .footer-top .contact-widget .widget-content .single-item h3 a{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .footer-top .contact-widget .widget-content .single-item p a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .footer-bottom .copyright p a{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .footer-bottom .footer-card li span{
@@ -504,7 +504,7 @@
 
 .main-menu .navigation > li.current > a:before,
 .main-menu .navigation > li:hover > a:before{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .red-color .main-menu .navigation > li.current > a:before,
@@ -858,7 +858,7 @@
 }
 
 .red-color .shop-block-one .inner-box .lower-content .price h5{
-	color: #ea2722;
+	color: #EA2722;
 }
 
 .red-color .footer-top-two a:hover{
@@ -1147,7 +1147,7 @@
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .amount-box .price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .case-block-three .inner-box .lower-content .donate-inner .btn-box button:hover{
@@ -1176,7 +1176,7 @@
 }
 
 .case-block-four .inner-box .donate-inner .amount-box .price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .case-block-four .inner-box .donate-inner .percentage-box .bar-inner{
@@ -1223,7 +1223,7 @@
 }
 
 .case-details .donate-inner .amount-box .price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .case-details .donate-inner .percentage-box .bar:before{
@@ -1555,7 +1555,7 @@
 }
 
 .product-details-content .upper-box .price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .product-details-content .text .category li a{
@@ -1630,7 +1630,7 @@
 }
 
 .cart-table tbody tr .total-price{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .cart-table tbody tr .remove-btn:hover{

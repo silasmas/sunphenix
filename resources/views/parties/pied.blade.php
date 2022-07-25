@@ -21,10 +21,5 @@
 
     <!-- main-js -->
     <script src="{{ asset('assets/js/script.js') }}"></script>
-    <link rel="stylesheet" href="https://sdev1.odoo.com/im_livechat/external_lib.css"/>
-
-    <script type="text/javascript" src="https://sdev1.odoo.com/im_livechat/external_lib.js"></script>
-
-    {{-- <script type="text/javascript" src="https://sdev1.odoo.com/im_livechat/loader/1"></script> --}}
 </body><!-- End of .page_wrapper -->
 </html>

@@ -7,7 +7,9 @@
 		var animateSpan= jQuery('.animation_text_word');
 
 			animateSpan.typed({
-				strings: ["Donate to changing the world. Be part of the good campaign...", "Donate to changing the world. Be part of the good campaign...", "Donate to changing the world. Be part of the good campaign..."],
+				strings: ["Dénonçons toutes forme de violence basé sur le genre en appelan le 122, et c'est GRATUIT...",
+                "Dénonçons toutes forme de violence basé sur le genre en appelan le 122, et c'est GRATUIT...",
+                "Dénonçons toutes forme de violence basé sur le genre en appelan le 122, et c'est GRATUIT..."],
 				loop: true,
 				startDelay: 1e3,
 				backDelay: 3e3

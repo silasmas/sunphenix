@@ -73,9 +73,9 @@
                             <span>01</span>
                         </div>
                         <div class="text">
-                            <span class="top-text">Donate to</span>
-                            <h3>Education & <br />Food for Childrens</h3>
-                            <a href="#" style="color:#FFFFFF !important">More Details</a>
+                            <span class="top-text">Dénonçons</span>
+                            <h3>Violence <br />estudiantine</h3>
+                            <a href="#" style="color:#FFFFFF !important">Lire la suite</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-1.jpg" alt=""></figure>
                     </div>
@@ -87,9 +87,9 @@
                             <span>02</span>
                         </div>
                         <div class="text">
-                            <span class="top-text">Donate to</span>
-                            <h3>Surgery <br />& Treatments</h3>
-                            <a href="#" style="color:#FFFFFF !important">More Details</a>
+                            <span class="top-text">Dénonçons</span>
+                            <h3>Violence <br />Conjugale</h3>
+                            <a href="#" style="color:#FFFFFF !important">Lire la suite</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-2.jpg" alt=""></figure>
                     </div>
@@ -101,9 +101,9 @@
                             <span>03</span>
                         </div>
                         <div class="text">
-                            <span class="top-text">Donate to</span>
-                            <h3>Environmetal <br />Protection</h3>
-                            <a href="#" style="color:#FFFFFF !important">More Details</a>
+                            <span class="top-text">Dénonçons</span>
+                            <h3>Les violences <br />dans toutes ses formes</h3>
+                            <a href="#" style="color:#FFFFFF !important">Lire la suite</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-3.jpg" alt=""></figure>
                     </div>

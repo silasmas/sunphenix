@@ -68,8 +68,8 @@
                                 <li><a href="#about">A propos</a></li>
                                 <li><a href="#case">Causes</a></li>
                                 <li><a href="#team">Equipe</a></li>
-                                <li><a href="#testimonial">Témoignage</a></li>
-                                <li><a href="#news">Nouvelles</a></li>
+                                <li><a href="#testimonial">Témoignages</a></li>
+                                {{-- <li><a href="#news">Nouvelles</a></li> --}}
                             </ul>
                         </div>
                     </nav>
