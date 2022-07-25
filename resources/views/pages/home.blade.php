@@ -12,7 +12,7 @@
                             <h2>ça peut apporter plus gros</h2>
                             <p>La charité est un processus continu vers le succès et <br />bonheur Aidons-les maintenant.</p>
                             <div class="btn-box">
-                                <a href="#" class="banner-btn" style="background hover: #EA2722 !important;">Lire la suite</a>
+                                <a href="#" class="theme-btn btn-one" style="color:#FFFFFF !important">Lire la suite</a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                             <h2>Cela vient de l'aide</h2>
                             <p>Seuls, nous ne changeons pas grand-chose, mais ensemble, nous sommes <br />fort pour faire face à n'importe quel problème.</p>
                             <div class="btn-box">
-                                <a href="#" class="banner-btn">Lire la suite</a>
+                                <a href="#" class="theme-btn btn-one" style="color:#FFFFFF !important">Lire la suite</a>
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                             <h2>Besoin d'aide de quelqu'un</h2>
                             <p>Ce n'est que lorsque la société se réunira et contribuera que nous serons<br />capable d'avoir un impact.</p>
                             <div class="btn-box">
-                                <a href="#" class="banner-btn">Lire la suite</a>
+                                <a href="#" class="theme-btn btn-one" style="color:#FFFFFF !important">Lire la suite</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="text">
                             <span class="top-text">Donate to</span>
                             <h3>Education & <br />Food for Childrens</h3>
-                            <a href="#">More Details</a>
+                            <a href="#" style="color:#FFFFFF !important">More Details</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-1.jpg" alt=""></figure>
                     </div>
@@ -89,7 +89,7 @@
                         <div class="text">
                             <span class="top-text">Donate to</span>
                             <h3>Surgery <br />& Treatments</h3>
-                            <a href="#">More Details</a>
+                            <a href="#" style="color:#FFFFFF !important">More Details</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-2.jpg" alt=""></figure>
                     </div>
@@ -103,7 +103,7 @@
                         <div class="text">
                             <span class="top-text">Donate to</span>
                             <h3>Environmetal <br />Protection</h3>
-                            <a href="#">More Details</a>
+                            <a href="#" style="color:#FFFFFF !important">More Details</a>
                         </div>
                         <figure class="image-box"><img src="assets/images/banner/banner-img-3.jpg" alt=""></figure>
                     </div>

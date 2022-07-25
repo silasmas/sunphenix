@@ -30,7 +30,7 @@
                                     <p>There are many variations of passages of lorem ipsum available, but the majority have suffered alteration all form injected humours randomises don't look even slightly belvable.</p>
                                 </div>
                                 <div class="btn-box">
-                                    <a href="about.html" class="theme-btn btn-one">Lire la suite</a>
+                                    <a href="#" class="theme-btn btn-one">Lire la suite</a>
                                 </div>
                             </div>
                             <div class="funfact-inner">

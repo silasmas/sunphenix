@@ -102,27 +102,27 @@
                                 <div class="tab-btn-box">
                                     <ul class="tab-btns tab-buttons clearfix">
                                         <li class="tab-btn active-btn" data-tab="#tab-1">
-                                            <h5>All Categories</h5>
+                                            <h5>Toutes catégories</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-2">
-                                            <h5>Education</h5>
+                                            <h5>Ménage</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-3">
-                                            <h5>Health & Food</h5>
+                                            <h5>Conflit</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-4">
-                                            <h5>Hunger & Nutrition</h5>
+                                            <h5>Haine</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-5">
-                                            <h5>Treatment</h5>
+                                            <h5>pauvrété</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                         <li class="tab-btn" data-tab="#tab-6">
-                                            <h5>Water & Environment</h5>
+                                            <h5>Mauvaise éducation</h5>
                                             <div class="icon"><i class="fal fa-angle-left"></i></div>
                                         </li>
                                     </ul>
@@ -893,8 +893,9 @@
                     <div class="shape" style="background-image: url(assets/images/shape/shape-21.png);"></div>
                     <div class="inner">
                         <div class="sec-title centred light">
-                            <span class="top-text">Recent Donors</span>
-                            <h2>Thousands of Donors Choose Pure Hearts <br />for High Impact Causes</h2>
+                            <span class="top-text">Nos colaborateurs</span>
+                            <h2>Des milliers de colaborateurs choisissent <b>122</b>
+                                <br /> pour des causes à fort impact</h2>
                         </div>
                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                             <div class="single-item">
@@ -932,13 +933,13 @@
                                     <h6>Donated $250</h6>
                                 </div>
                             </div>
-                            <div class="single-item">
+                            {{-- <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper Flelix, <span>Liverpool</span></h3>
                                     <h6>Donated $250</h6>
                                 </div>
-                            </div>
+                            </div> --}}
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
                                 <div class="text">
@@ -981,13 +982,13 @@
                                     <h6>Donated $250</h6>
                                 </div>
                             </div>
-                            <div class="single-item">
+                            {{-- <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper Flelix, <span>Liverpool</span></h3>
                                     <h6>Donated $250</h6>
                                 </div>
-                            </div>
+                            </div> --}}
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
                                 <div class="text">
@@ -1030,13 +1031,13 @@
                                     <h6>Donated $250</h6>
                                 </div>
                             </div>
-                            <div class="single-item">
+                            {{-- <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
                                 <div class="text">
                                     <h3>Jasper Flelix, <span>Liverpool</span></h3>
                                     <h6>Donated $250</h6>
                                 </div>
-                            </div>
+                            </div> --}}
                             <div class="single-item">
                                 <figure class="image-box"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
                                 <div class="text">
@@ -1060,12 +1061,12 @@
                     <div class="col-lg-4 col-md-12 col-sm-12 title-column">
                         <div class="title-inner">
                             <div class="sec-title">
-                                <span class="top-text">Benefits of Giving</span>
-                                <h2>Bring More Meaning to Your Life & Family</h2>
+                                <span class="top-text">Pourquoi nous appeler</span>
+                                <h2>Vous avez une bouche et une oreille pour vous.</h2>
                             </div>
                             <div class="text">
-                                <p>The majority have suffered alteration all injected humours randomises.</p>
-                                <a href="index.html" class="theme-btn btn-one">Read More</a>
+                                <p>La majorité ont subi une altération de toutes les humeurs injectées randomisées.</p>
+                                <a href="index.html" class="theme-btn btn-one">Lire la suite</a>
                             </div>
                         </div>
                     </div>
@@ -1077,11 +1078,11 @@
                                         <span>01</span>
                                         <div class="icon-box">
                                             <div class="shape" style="background-image: url(assets/images/shape/shape-13.png);"></div>
-                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
+                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-35.png);"></div>
                                             <div class="icon"><i class="icon-stop-hand-drawn-signal-rhomb"></i></div>
                                         </div>
-                                        <h3>Improve Self-Esteem</h3>
-                                        <p>Righteous indignation and dislike mens who beguiled demoralized.</p>
+                                        <h3> Améliorer l'estime de soi</h3>
+                                        <p>L'indignation juste et l'aversion pour les hommes qui ont séduit démoralisé.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1089,11 +1090,11 @@
                                         <span>02</span>
                                         <div class="icon-box">
                                             <div class="shape" style="background-image: url(assets/images/shape/shape-13.png);"></div>
-                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
+                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-35.png);"></div>
                                             <div class="icon"><i class="icon-puzzle-piece-shape-handmade-draw"></i></div>
                                         </div>
-                                        <h3>Reduce Your Stress</h3>
-                                        <p>Obligations of business it will frequently pleasure have to be repudiate.</p>
+                                        <h3>Réduisez votre stress</h3>
+                                        <p>Les obligations de l'entreprise seront fréquemment répudiées avec plaisir.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1101,11 +1102,13 @@
                                         <span>03</span>
                                         <div class="icon-box">
                                             <div class="shape" style="background-image: url(assets/images/shape/shape-13.png);"></div>
-                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
+                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-35.png);"></div>
                                             <div class="icon"><i class="icon-financial-bar-chart"></i></div>
                                         </div>
-                                        <h3>Financial Benefits</h3>
-                                        <p>Obligations of business it will frequently pleasure have to be repudiate.</p>
+                                        <h3>Obtenez gains des causes</h3>
+                                        <p>
+                                            Les obligations de l'entreprise seront fréquemment répudiées avec plaisir.
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
@@ -1113,11 +1116,11 @@
                                         <span>04</span>
                                         <div class="icon-box">
                                             <div class="shape" style="background-image: url(assets/images/shape/shape-13.png);"></div>
-                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-14.png);"></div>
+                                            <div class="shape-2" style="background-image: url(assets/images/shape/shape-35.png);"></div>
                                             <div class="icon"><i class="icon-house-with-heart-hand-drawn-building"></i></div>
                                         </div>
-                                        <h3>Familial Benefits</h3>
-                                        <p>Righteous indignation and dislike mens who beguiled demoralized.</p>
+                                        <h3>Garantissez votre famille</h3>
+                                        <p>L'indignation juste et l'aversion pour les hommes qui ont séduit démoralisé.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1188,7 +1191,8 @@
                                 </div>
                                 <div class="video-btn">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-16.png);"></div>
-                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-play-arrow"></i>Play Video</a>
+                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption="">
+                                        <i class="icon-play-arrow"></i>Play Video</a>
                                 </div>
                             </div>
                         </div>

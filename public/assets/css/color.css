@@ -13,11 +13,11 @@
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading{
-  color: #f65024;
+  color: #ea2722;
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color: #f65024;
+  color: #ea2722;
 }
 
 .handle-preloader .animation-preloader .spinner{
@@ -45,35 +45,35 @@
 }
 
 .header-top .info-list li a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .header-top .info-list li span{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .header-top .info-list li i{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .header-top .update-news p span{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .header-top .update-news i{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .header-top .language-box span{
-	background-color: #f65024;
+	background-color: #EA2722;
 }
 
 .header-top .language-box .language-list{
-	border-top: 2px solid #f65024;
+	border-top: 2px solid #EA2722;
 }
 
 .header-top .language-box .language-list li a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .header-lower .outer-box .text span{
@@ -136,7 +136,7 @@
 }
 
 .social-style-one li a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .main-header .search-box-btn:hover{
@@ -317,7 +317,7 @@
 }
 
 .video-section .content-box .video-btn a{
-	color: #f65024;
+	color: #EA2722;
 }
 
 .video-section .content-box .video-btn a:hover{
@@ -746,11 +746,11 @@
 }
 
 .video-style-two .inner-container .text .video-btn a i{
-	color: #ea2722;
+	color: #EA2722;
 }
 
 .video-style-two .inner-container .text .video-btn a i{
-	border-color: #ea2722;
+	border-color: #EA2722;
 }
 
 .red-color .events-block-two .inner-box .post-date h3{
@@ -1096,7 +1096,7 @@
 }
 
 .portfolio-sidebar .portfolio-info .info-list li p a:hover{
-  color: #f65024;
+  color: #EA2722;
 }
 
 .portfolio-sidebar .social-links li a:hover{
