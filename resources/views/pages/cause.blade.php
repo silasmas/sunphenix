@@ -1159,7 +1159,7 @@
                     </div>
                     <div class="row clearfix">
                         <div class="col-lg-6 col-md-6 col-sm-12 image-column">
-                            <figure class="image-box"><img src="assets/images/resource/video-2.jpg" alt=""></figure>
+                            <figure class="image-box"><img src="assets/images/resource/v2.png" alt=""></figure>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                             <div class="content-box">
