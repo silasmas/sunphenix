@@ -12,9 +12,6 @@
                     <span data-text-preloader="A" class="letters-loading">
                         A
                     </span>
-                    <span data-text-preloader="A" class="letters-loading">
-                        A
-                    </span>
                     <span data-text-preloader="L" class="letters-loading">
                         L
                     </span>
